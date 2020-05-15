@@ -1,0 +1,17 @@
+body	{
+	background: white;
+}
+li	{
+	border: 2px solid red;
+}
+
+#unique{
+	border: 2px dotted purple;
+	background: yellow;
+}
+
+.highlight{
+	border: 2px dashed green;
+	background: #7ABCF5;
+	text-decoration: line-through;
+}

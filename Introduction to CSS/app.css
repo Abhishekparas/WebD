@@ -1,0 +1,25 @@
+h1	{
+	color: #72B9F8; /* hexadecimal*/
+	/*border-width: 5px;*/
+	/*border-color: purple;*/
+	/*border-style: solid;*/
+	border: 5px dashed purple;
+
+}
+li	{
+	color: rgb(100,0,100); /* decimal (every element in this bracket can vary from 0 to 255)*/
+}
+h4	{
+	background: rgb(255,100,80);
+	color: red;
+}
+h2	{
+	color: rgba(11,99,150,0.2); /* a refers to alpha(transparency) and it ranges from 0.0 to 1.0 */
+}
+
+body {
+	background: pink;
+	/*background: url(https://img.freepik.com/free-vector/abstract-technology-particle-background_52683-25766.jpg?size=626&ext=jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

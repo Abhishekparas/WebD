@@ -1,0 +1,27 @@
+/*Type selectors*/
+
+li  {       /*least specific*/
+
+}
+
+li a{
+
+}
+
+li + a{
+
+}
+/* Class, attribute and pseudo -class selectors*/
+.highlight {
+
+}
+
+input[type ="text"] {
+
+}
+
+/* id selectors*/
+
+#idname     {       /* most specific*/
+
+}
